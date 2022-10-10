@@ -1,2 +1,5 @@
 This is first commit
 and please be careful
+
+today is monday 
+and its a rainy day
